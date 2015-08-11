@@ -1,0 +1,6 @@
+{
+  "name": "underscore.string",
+  "repo": "virtru-components/underscore.string",
+  "version": "2.3.1",
+  "description": "String manipulation extensions for underscore.js javascript library."
+}
